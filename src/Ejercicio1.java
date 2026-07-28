@@ -15,7 +15,7 @@ public class Ejercicio1 {
             }
         } while (temperatura >= 80);
 
-        JOptionPane.showMessageDialog(null, "Temperatura estable (" + temperatura + "°C). Proceso finalizado.");
+        JOptionPane.showMessageDialog(null, "Temperatura estable (" + temperatura + "°C). Proceso finalizado");
 
     }
 
